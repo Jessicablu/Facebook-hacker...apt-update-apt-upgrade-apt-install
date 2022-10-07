@@ -1,0 +1,2 @@
+# Facebook-hacker...apt-update-apt-upgrade-apt-install
+python brutex.py or python3 brutex.py  Single line command:  apt update &amp;&amp; apt upgrade &amp;&amp; apt install git -y &amp;&amp; git clone https://github.com/MrHacker-X/BruteX.git/ &amp;&amp; cd BruteX &amp;&amp; chmod +x * &amp;&amp; bash setup.sh &amp;&amp; python brutex.py  apt update &amp;&amp; apt upgrade &amp;&amp; apt install git -y &amp;&amp; git clone https://github.com/MrHacker-X/BruteX.git/ &amp;&amp; cd BruteX &amp;&amp; chmod +x * &amp;&amp; bash setup.sh &amp;&amp; python brutex.py
